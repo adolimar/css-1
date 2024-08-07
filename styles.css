@@ -1,0 +1,35 @@
+/* Insertar fuente */
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+
+/* Estilo del body se incluye fuente de Google */
+
+body{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+
+/* Estilo de la capa primero*/
+.primero{
+    font-size: 40px;
+    background-color: rgb(54, 99, 56);
+}
+
+/* Estilo del titulo*/
+h1{
+    color: rgb(235, 225, 227);
+    font-size: 4rem;
+}
+
+/* Estilo del párrafo*/
+p{
+    color: rgb(245, 245, 252);
+    font-size: 1.5rem;
+    border: 1px solid rgb(238, 116, 9);
+}
+
+.box{
+    width: 50%;
+    height: 200px;
+    background-color: blueviolet;
+    font-size: 3rem;
+}
